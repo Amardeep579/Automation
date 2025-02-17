@@ -2,7 +2,7 @@ package ex_06_if_else_condition;
 
 import java.util.Scanner;
 
-public class Lab007_Grade_number {
+public class Lab_007_Grade_number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the score");
